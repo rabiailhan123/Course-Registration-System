@@ -1,0 +1,23 @@
+{
+    "id": 3264,
+    "name": "Formal Languages and Automata Theory",
+    "credits": 5 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2023
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Ali Haydar Özer",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

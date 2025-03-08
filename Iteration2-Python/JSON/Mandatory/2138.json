@@ -1,0 +1,23 @@
+{
+    "id": 2138,
+    "name": "System Programming",
+    "credits": 7 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Betül Boz",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

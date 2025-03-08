@@ -1,0 +1,22 @@
+{
+    "id": 4040,
+    "name": "Cloud Computing",
+    "credits": 5,
+    "numberOfLectureHour": 3,
+    "CourseType": "TECourse",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Merve Zengin ",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

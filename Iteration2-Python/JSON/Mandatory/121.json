@@ -1,0 +1,23 @@
+{
+    "id": 121,
+    "name": "Ataturk's Principles and the History of Turkish Renovation 1",
+    "credits": 2 ,
+    "numberOfLectureHour" : 2,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Ali Karaman",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

@@ -1,0 +1,22 @@
+{
+    "id": 2202,
+    "name": "Technical Comm. and Entrepreneurship",
+    "credits": 2,
+    "numberOfLectureHour": 2,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Hasan Kayra",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

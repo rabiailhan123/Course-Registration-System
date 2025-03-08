@@ -1,0 +1,24 @@
+{
+    "id": 3063,
+    "name": "Object Oriented Software Design",
+    "credits": 5,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [
+        2023
+    ],
+    "courseSection": [
+        {
+            "lecturer": "Murat Can Ganiz",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

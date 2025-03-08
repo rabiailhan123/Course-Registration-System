@@ -1,0 +1,23 @@
+{
+    "id": 3038,
+    "name": "Computer Organization",
+    "credits": 7 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        3215
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Selim Paşa",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

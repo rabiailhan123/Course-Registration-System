@@ -1,0 +1,22 @@
+{
+    "id": 2253,
+    "name": "Prob. and Stat. fro Computer Engineering",
+    "credits": 5,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "M\u00fcjdat Soyt\u00fcrk ",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+   {
+      "id": 1012345,
+      "name": "Data Structures and Algorithms",
+      "credits": 3 ,
+      "creditsRequired" : 0, 
+      "numberOfLectureHour" : 3,
+      "prerequisite" : [
+        1012345, 
+        3157892
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 50,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 0,
+              "lectureHourNumber" : 0,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+    } 

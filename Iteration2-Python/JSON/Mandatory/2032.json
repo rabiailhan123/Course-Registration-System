@@ -1,0 +1,23 @@
+{
+    "id": 2032,
+    "name": "Electronics",
+    "credits": 5 ,
+    "numberOfLectureHour" : 2,
+    "prerequisite" : [
+      2031
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Sanem Yapıcı",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

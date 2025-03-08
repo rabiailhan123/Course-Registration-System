@@ -1,0 +1,25 @@
+
+  {
+    "id": 5476231,
+    "name": "Software Engineering",
+    "credits": 3 ,
+    "creditsRequired" : 0, 
+    "prerequisite" : [
+        
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 5,
+              "lectureHourNumber" : 3,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
+ 

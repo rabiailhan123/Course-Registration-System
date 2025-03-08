@@ -1,0 +1,19 @@
+{
+    "AdvisorId": 6374021,
+    "password": "ev@123G",
+    "name": "Eva Green",
+    "id": 6725014,
+    "eMail": "eva.green@example.com",
+    "CourseSectionsTaken": [
+        [
+            "9812045",
+            "finished",
+            "1"
+        ],
+        [
+            "5476231",
+            "finished",
+            "1"
+        ]
+    ]
+}

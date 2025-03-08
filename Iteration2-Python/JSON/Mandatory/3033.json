@@ -1,0 +1,23 @@
+{
+    "id": 3033,
+    "name": "Operating System",
+    "credits": 7 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2225
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Ali Haydar Özer",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

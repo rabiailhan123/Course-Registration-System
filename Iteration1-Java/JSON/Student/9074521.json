@@ -1,0 +1,29 @@
+{
+    "AdvisorId": 6374021,
+    "password": "J@ckD@v1s",
+    "name": "Jack Davis",
+    "id": 9074521,
+    "eMail": "jack.davis@example.com",
+    "CourseSectionsTaken": [
+        [
+            "1012345",
+            "finished",
+            "1"
+        ],
+        [
+            "2014578",
+            "finished",
+            "1"
+        ],
+        [
+            "3157892",
+            "finished",
+            "1"
+        ],
+        [
+            "1098764",
+            "finished",
+            "1"
+        ]
+    ]
+}

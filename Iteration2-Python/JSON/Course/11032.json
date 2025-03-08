@@ -1,0 +1,22 @@
+{
+    "id": 11032,
+    "name": "Physics Lab 1.2 ",
+    "credits": 2,
+    "numberOfLectureHour": 2,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "P\u0131nar \u00d6zdemir",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

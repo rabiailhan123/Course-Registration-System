@@ -1,0 +1,24 @@
+{
+    "id": 2031,
+    "name": "Electric Circuits",
+    "credits": 5,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [
+        1102
+    ],
+    "courseSection": [
+        {
+            "lecturer": "Mehmet Sayg\u0131n",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

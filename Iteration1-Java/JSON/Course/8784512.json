@@ -1,0 +1,26 @@
+
+  {
+    "id": 8784512,
+    "name": "Advanced Algorithms",
+    "credits": 4 ,
+    "creditsRequired" : 0, 
+    "prerequisite" : [
+        1012345,
+        2014578
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 3,
+              "lectureHourNumber" : 8,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
+ 

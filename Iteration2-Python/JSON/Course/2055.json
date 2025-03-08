@@ -1,0 +1,22 @@
+{
+    "id": 2055,
+    "name": "Differential Equations",
+    "credits": 4,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Melisa Yaz\u0131c\u0131",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

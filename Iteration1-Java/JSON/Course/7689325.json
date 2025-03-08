@@ -1,0 +1,24 @@
+
+  {
+    "id": 7689325,
+    "name": "Machine Learning",
+    "credits": 3 ,
+    "creditsRequired" : 0, 
+    "prerequisite" : [
+        
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 2,
+              "lectureHourNumber" : 7,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }

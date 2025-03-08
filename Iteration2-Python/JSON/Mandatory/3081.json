@@ -1,0 +1,23 @@
+{
+    "id": 3081,
+    "name": "Modeling and Discrete Simulation",
+    "credits": 4 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2253
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Müjdat Soytürk",
+        "courseCapacity" : 70,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

@@ -1,0 +1,23 @@
+{
+    "id": 3235,
+    "name": "Operations Research",
+    "credits": 4 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2256
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Adem Kargın ",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

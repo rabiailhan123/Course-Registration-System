@@ -1,0 +1,28 @@
+{
+    "AdvisorId": 6374021,
+    "password": "gr@c3L33",
+    "name": "Grace Lee",
+    "semester": 3,
+    "id": 8156230,
+    "eMail": "grace.lee@example.com",
+    "CourseSectionsTaken": [
+        [
+            "1241",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "121",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1001",
+            "finished",
+            "1",
+            "AA"
+        ]
+    ]
+}

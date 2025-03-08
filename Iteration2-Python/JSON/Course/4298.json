@@ -1,0 +1,71 @@
+{
+    "id": 4298,
+    "name": "Engineering Project 2",
+    "credits": 5,
+    "numberOfLectureHour": 2,
+    "creditsNeeded": 165,
+    "CourseType": "EngineeringProjectCourse",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Meltem Aydemir",
+            "courseCapacity": 25,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 1,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        },
+        {
+            "lecturer": "Bet\u00fcl Boz",
+            "courseCapacity": 35,
+            "courseSectionNumber": 2,
+            "lectureHour": [
+                {
+                    "lectureDay": 2,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        },
+        {
+            "lecturer": "\u00d6mer Kor\u00e7ak",
+            "courseCapacity": 40,
+            "courseSectionNumber": 3,
+            "lectureHour": [
+                {
+                    "lectureDay": 3,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        },
+        {
+            "lecturer": "Meltem Aydemir",
+            "courseCapacity": 30,
+            "courseSectionNumber": 4,
+            "lectureHour": [
+                {
+                    "lectureDay": 4,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        },
+        {
+            "lecturer": "Mehmet Kadir Baran",
+            "courseCapacity": 35,
+            "courseSectionNumber": 5,
+            "lectureHour": [
+                {
+                    "lectureDay": 5,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

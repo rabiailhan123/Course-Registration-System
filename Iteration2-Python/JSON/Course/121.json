@@ -1,0 +1,22 @@
+{
+    "id": 121,
+    "name": "\u0130\u015f Sa\u011fl\u0131\u011f\u0131 ve G\u00fcvenli\u011fi 1",
+    "credits": 2,
+    "numberOfLectureHour": 2,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Bora Solman",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

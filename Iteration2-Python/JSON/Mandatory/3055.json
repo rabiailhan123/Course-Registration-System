@@ -1,0 +1,23 @@
+{
+    "id": 3055,
+    "name": "Database Systems",
+    "credits": 7 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2225
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Mustafa Ağaoğlu",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

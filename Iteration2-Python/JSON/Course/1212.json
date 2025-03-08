@@ -1,0 +1,24 @@
+{
+    "id": 121,
+    "CourseType": "Mandatory",
+    "name": "Türk Dili 1 ",
+    "credits": 2 ,
+    "numberOfLectureHour" : 2,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Mahmut Tosun",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

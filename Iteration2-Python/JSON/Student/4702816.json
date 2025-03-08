@@ -1,0 +1,22 @@
+{
+    "AdvisorId": 1028457,
+    "password": "s3cr3tP@ssw0rd",
+    "name": "Bob Smith",
+    "semester": 3,
+    "id": 4702816,
+    "eMail": "bob.smith@example.com",
+    "CourseSectionsTaken": [
+        [
+            "1241",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1001",
+            "finished",
+            "1",
+            "AA"
+        ]
+    ]
+}

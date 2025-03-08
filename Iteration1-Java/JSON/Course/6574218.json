@@ -1,0 +1,25 @@
+
+  {
+    "id": 6574218,
+    "name": "Artificial Intelligence",
+    "credits": 4 ,
+    "creditsRequired" : 10, 
+    "prerequisite" : [
+        3157892
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 4,
+              "lectureHourNumber" : 2,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
+

@@ -1,0 +1,23 @@
+{
+    "id": 1241,
+    "name": "Computer Programming 1",
+    "credits": 6 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Ceyda Karaca",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

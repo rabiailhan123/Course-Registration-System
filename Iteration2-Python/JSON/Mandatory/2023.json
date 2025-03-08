@@ -1,0 +1,23 @@
+{
+    "id": 2023,
+    "name": "Discrete Computational Structures",
+    "credits": 6 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Mahmut Selim",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

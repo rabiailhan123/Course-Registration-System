@@ -1,0 +1,25 @@
+
+  {
+    "id": 9812045,
+    "name": "Compiler Design",
+    "credits": 4 ,
+    "creditsRequired" : 0, 
+    "prerequisite" : [
+        
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 4,
+              "lectureHourNumber" : 9,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
+  

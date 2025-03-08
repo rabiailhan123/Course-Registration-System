@@ -1,0 +1,22 @@
+{
+    "id": 1201,
+    "name": "Introduction to Modern Biology",
+    "credits": 5,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "\u015eebnem Yal\u00e7\u0131n",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

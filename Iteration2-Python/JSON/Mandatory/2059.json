@@ -1,0 +1,23 @@
+{
+    "id": 2059,
+    "name": "Numerical Methods",
+    "credits": 4 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        1001
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Çiğdem Kara",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

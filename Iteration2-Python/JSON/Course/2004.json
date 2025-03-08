@@ -1,0 +1,22 @@
+{
+    "id": 2004,
+    "name": "Engineering Economy",
+    "credits": 4,
+    "numberOfLectureHour": 2,
+    "CourseType": "Mandatory",
+    "prerequisite": [],
+    "courseSection": [
+        {
+            "lecturer": "Meltem Aydemir",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

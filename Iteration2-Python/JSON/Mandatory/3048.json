@@ -1,0 +1,23 @@
+{
+    "id": 3048,
+    "name": "Introduction to Signals and Systems",
+    "credits": 5 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        2055
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Mehmet Kadir Baran",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

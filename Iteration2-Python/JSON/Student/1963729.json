@@ -1,0 +1,28 @@
+{
+    "AdvisorId": 1028457,
+    "password": "h4nn@hM!ll3r",
+    "name": "Hannah Miller",
+    "semester": 3,
+    "id": 1963729,
+    "eMail": "hannah.miller@example.com",
+    "CourseSectionsTaken": [
+        [
+            "1241",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1002",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "2004",
+            "finished",
+            "1",
+            "AA"
+        ]
+    ]
+}

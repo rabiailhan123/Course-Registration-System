@@ -1,0 +1,28 @@
+{
+    "AdvisorId": 6374021,
+    "password": "dW!6v3r",
+    "name": "David White",
+    "semester": 3,
+    "id": 4872315,
+    "eMail": "david.white@example.com",
+    "CourseSectionsTaken": [
+        [
+            "1001",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1201",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1241",
+            "finished",
+            "1",
+            "AA"
+        ]
+    ]
+}

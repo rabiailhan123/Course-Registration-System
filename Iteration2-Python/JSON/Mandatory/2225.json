@@ -1,0 +1,23 @@
+{
+    "id": 2225,
+    "name": "Data Structures",
+    "credits": 7 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+      1242
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Borahan Tümer",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

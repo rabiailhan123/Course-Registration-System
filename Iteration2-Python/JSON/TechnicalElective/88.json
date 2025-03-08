@@ -1,0 +1,18 @@
+{
+    "id": 88,
+    "name": "asd",
+    "credits": 7,
+    "numberOfLectureHour": 3,
+    "prerequisite": [
+        345,
+        567
+    ],
+    "courseSection": [
+        {
+            "lecturer": "ali",
+            "courseCapacity": 30,
+            "courseSectionNumber": 1,
+            "lectureHour": []
+        }
+    ]
+}

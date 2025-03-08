@@ -1,0 +1,23 @@
+{
+    "id": 3215,
+    "name": "Digital Logic Design",
+    "credits": 6 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Betül Boz",
+        "courseCapacity" : 100,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

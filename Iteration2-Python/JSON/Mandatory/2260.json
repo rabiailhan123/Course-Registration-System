@@ -1,0 +1,23 @@
+{
+    "id": 2260,
+    "name": "Principles of Programming Languages",
+    "credits": 6 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+        1242
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Fatma Corut Ergin",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

@@ -1,0 +1,24 @@
+{
+    "id": 3038,
+    "name": "Computer Organization",
+    "credits": 7,
+    "numberOfLectureHour": 3,
+    "CourseType": "Mandatory",
+    "prerequisite": [
+        3215
+    ],
+    "courseSection": [
+        {
+            "lecturer": "Selim Pa\u015fa",
+            "courseCapacity": 50,
+            "courseSectionNumber": 1,
+            "lectureHour": [
+                {
+                    "lectureDay": 0,
+                    "lectureHourNumber": 0,
+                    "classroomID": "M1.Z02"
+                }
+            ]
+        }
+    ]
+}

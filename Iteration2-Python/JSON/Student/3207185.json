@@ -1,0 +1,34 @@
+{
+    "AdvisorId": 1028457,
+    "password": "I@nsC0tt",
+    "name": "Ian Scott",
+    "semester": 4,
+    "id": 3207185,
+    "eMail": "ian.scott@example.com",
+    "CourseSectionsTaken": [
+        [
+            "121",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1241",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "1200",
+            "finished",
+            "1",
+            "AA"
+        ],
+        [
+            "122",
+            "finished",
+            "1",
+            "AA"
+        ]
+    ]
+}

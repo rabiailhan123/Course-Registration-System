@@ -1,0 +1,23 @@
+{
+    "id": 1002,
+    "name": "Calculus 2",
+    "credits": 6 ,
+    "numberOfLectureHour" : 4,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Mehmet Erdemir",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

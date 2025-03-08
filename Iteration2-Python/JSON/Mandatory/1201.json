@@ -1,0 +1,23 @@
+{
+    "id": 1201,
+    "name": "Introduction to Modern Biology",
+    "credits": 5 ,
+    "numberOfLectureHour" : 3,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Şebnem Yalçın",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

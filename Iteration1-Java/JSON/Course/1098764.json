@@ -1,0 +1,26 @@
+
+  { 
+    "id": 1098764,
+    "name": "Cloud Computing",
+    "credits": 3 ,
+    "creditsRequired" : 10, 
+    "prerequisite" : [
+       1012345,
+       2014578
+        ] ,
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 0,
+              "lectureHourNumber" : 1,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
+

@@ -1,0 +1,23 @@
+{
+    "id": 1104,
+    "name": "Physics Lab 2.1",
+    "credits": 2 ,
+    "numberOfLectureHour" : 2,
+    "prerequisite" : [
+  
+    ] , 
+    "courseSection" : [
+      {
+        "lecturer" : "Sevgi Kaya",
+        "courseCapacity" : 50,
+        "courseSectionNumber" : 1,  
+        "lectureHour" : [
+          {
+            "lectureDay" : 0,
+            "lectureHourNumber" : 0,
+            "classroomID" : "M1.Z02"
+          }
+        ]
+      }
+    ]  
+  } 

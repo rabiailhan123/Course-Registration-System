@@ -1,0 +1,24 @@
+
+  {
+    "id": 2014578,
+    "name": "Database Management Systems",
+    "credits": 3 ,
+    "creditsRequired" : 0, 
+    "prerequisite" : [
+        1012345
+      ] , 
+      "courseSection" : [
+        {
+          "lecturer" : "a",
+          "courseCapacity" : 1,
+          "courseSectionNumber" : 1,  
+          "lectureHour" : [
+            {
+              "lectureDay" : 2,
+              "lectureHourNumber" : 2,
+              "classroomID" : "M1.Z02"
+            }
+          ]
+        }
+      ]  
+  }
